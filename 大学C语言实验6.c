@@ -4,7 +4,7 @@
 void fenduan()
 {
     double x,y=0;
-    printf("ÇëÊäÈëxµÄÖµ:");
+    printf("è¯·è¾“å…¥xçš„å€¼:");
     scanf("%lf", &x);
     if (x<=0)
     {
